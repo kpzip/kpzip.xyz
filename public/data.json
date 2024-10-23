@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "player_piano": {
+      "info": "info about player piano :)"
+    },
+    "induction_heater": {
+      "info": "info about induction heater stuff"
+    }
+  }
+}
